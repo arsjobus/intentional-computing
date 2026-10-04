@@ -82,9 +82,9 @@ Establish the philosophy and common language for the project.
 
 * [x] Create `MANIFESTO.md`
 * [x] Create `PRINCIPLES.md`
-* [ ] Create `README.md`
-* [ ] Create `DESIGN.md`
-* [ ] Create `PROJECTS.md`
+* [x] Create `README.md`
+* [x] Create `DESIGN.md`
+* [x] Create `PROJECTS.md`
 * [x] Create `ROADMAP.md`
 * [ ] Create contribution guidelines
 * [ ] Define project terminology

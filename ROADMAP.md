@@ -195,9 +195,9 @@ Create a lightweight pixel-art editor inspired by the strengths of established t
 
 * [x] Define Java/JavaFX architecture
 * [x] Move toward Maven build system
-* [ ] Canvas
-* [ ] Pixel editing
-* [ ] Palette
+* [x] Canvas
+* [x] Pixel editing
+* [x] Palette
 * [ ] Layers
 * [ ] Animation
 * [ ] Selection
@@ -205,9 +205,9 @@ Create a lightweight pixel-art editor inspired by the strengths of established t
 * [ ] Sprite-sheet tools
 * [ ] NES-specific workflows
 * [ ] SNES-specific workflows
-* [ ] Open project format
+* [x] Open project format
 * [ ] Documentation
-* [ ] Offline-first operation
+* [x] Offline-first operation
 
 ### Desired outcome
 
@@ -239,11 +239,11 @@ Build accurate, understandable, maintainable emulation software.
 * [x] Input
 * [x] ROM loading
 * [x] Basic game compatibility
-* [ ] Expand mapper support
-* [ ] Improve accuracy
-* [ ] Improve debugging
-* [ ] Improve tooling
-* [ ] Automated test ROM suite
+* [x] Expand mapper support
+* [x] Improve accuracy
+* [x] Improve debugging
+* [x] Improve tooling
+* [x] Automated test ROM suite
 * [ ] Documentation
 * [ ] Preservation tooling
 
@@ -287,10 +287,10 @@ Continue preservation work across early console architectures.
 ### Roadmap
 
 * [x] Basic emulator foundation
-* [ ] Improve CPU compatibility
-* [ ] Improve TIA accuracy
-* [ ] Improve timing
-* [ ] Improve cartridge compatibility
+* [x] Improve CPU compatibility
+* [x] Improve TIA accuracy
+* [x] Improve timing
+* [x] Improve cartridge compatibility
 * [ ] Game compatibility testing
 * [ ] Debugging tools
 * [ ] Automated regression testing
